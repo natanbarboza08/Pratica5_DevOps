@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         Pet pet01 = new Pet("Thor", "Cachorro", 4, 80.00);
-        Pet pet02 = new Pet("Rex", "Cachorro", 3, 35.00);
+        Pet pet02 = new Pet("Paulinha", "Lagartixa", 1, 50.00);
         Pet pet03 = new Pet("Mabel", "Gato", 7, 10.00);
 
         System.out.println("==== PETSHOP DEVOPS ====");
